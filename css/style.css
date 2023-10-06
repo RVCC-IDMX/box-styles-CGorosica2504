@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+  }
+
+  .box-one {
+    background-color: purple;
+    border: 0 solid green;
+    padding: 20px;
+    margin: 20px;
+    border-width: 20px;
+
+  } 
+  
+  .box-two {
+    background-color: cyan;
+    border: 0 solid orange;
+  } 
